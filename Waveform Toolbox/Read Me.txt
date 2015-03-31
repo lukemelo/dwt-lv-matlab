@@ -1,0 +1,15 @@
+Welcome to the waveform processing toolbox. Information on each dwt_"function" can be found in their respective files. 
+
+Run "spectra_processing_hub.mat" to process your spectra. Data must be imported to a row matrix. 
+
+The order you process the data DOES MATTER. The order suggested in "spectra_processing_hub.mat" seems to give the best results.
+
+Good luck with the waveform toolbox.
+
+If you would like to process each spectra separately, let:
+local = true
+
+Luke Melo
+lrmelo@uwaterloo.ca
+Ed Grant Group
+University of British Columbia
